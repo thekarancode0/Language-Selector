@@ -3,8 +3,8 @@ import { LanguageContext } from '../context/LanguageContent'
 export default function Greeting() {
     const {lang} = useContext(LanguageContext)
   return (
-    <div>
-        <h1 className='font-bold text-5xl w-[500px]'>
+    <div className='w-screen'>
+        <h1 className='font-bold text-4xl w-full text-center'>
             {lang==='hindi'?'आपका दिन शुभ हो!':
             lang==='french' ?'Bonne journée!' 
             :'Have a nice day!'}
