@@ -1,12 +1,7 @@
-# React + Vite
+# Language Selector 
+A basic React app where User have some option to choose their Language and the whole page turn into choosen language
+#useContext() Hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image](https://github.com/user-attachments/assets/0616038e-0aa0-4137-9389-afe213984268)
+[Check Project](https://thekarancode0.github.io/Language-Selector)
+![image](https://github.com/user-attachments/assets/ccea4826-5d99-4e2f-94d8-9c52a8add355)
