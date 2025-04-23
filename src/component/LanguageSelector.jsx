@@ -5,7 +5,7 @@ export default function LanguageSelector() {
 
 
   return (
-    <div className='flex flex-col justify-center items-center'>
+    <div className='flex flex-col justify-center items-center w-screen'>
         <h1 className='text-2xl'>{lang==='english'?'Choose Your Language:':lang==='hindi'?'अपनी भाषा चुनें':'Choisissez votre langue'}</h1>
         <div className='flex gap-10 justify-center items-center'>
             <button onClick={()=>setLang('hindi')} className='border px-2 mt-5 rounded-sm cursor-pointer hover:scale-105 transition-all ease-out'>Hindi</button>
